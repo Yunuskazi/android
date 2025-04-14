@@ -1,3 +1,5 @@
+#make file to build the code
+
 CC=gcc
 CFLAGS=-Wall -I./src
 
